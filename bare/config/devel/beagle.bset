@@ -4,7 +4,7 @@
 
 %define rtems_bsps      bbxm
 devel/mtools-1
-%include 4.12/rtems-arm.bset
+%include 5/rtems-arm.bset
 
 # We install the qemu linaro in a modified prefix so it doesn't
 # trample the upstream qemu.
